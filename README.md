@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wolkwork-knmi-mcp-badge.png)](https://mseep.ai/app/wolkwork-knmi-mcp)
+
 # KNMI Weather MCP
 
 A FastMCP server that provides real-time weather data from KNMI (Royal Netherlands Meteorological Institute) weather stations. This application fetches the latest 10-minute measurements from the nearest weather station to any location in the Netherlands.
